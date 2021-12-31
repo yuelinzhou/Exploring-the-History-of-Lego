@@ -5,7 +5,7 @@ In this mini project, we will analyze a fascinating dataset on every single Lego
 Import data, analyze data and make some visualization to get to see the data better.
 
 ## Create topics and get information from the data
-play around with the data
+Just play around with the data
 - how the average number of parts in Lego sets has varied over the years?
 - Lego Themes Over Years
 - Get the number of unique themes released in 1999
